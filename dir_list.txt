@@ -1,0 +1,3 @@
+total 8
+-rw-r--r--@ 1 MBishopp  staff  37 Jan 19 22:22 README
+-rw-r--r--  1 MBishopp  staff   0 Jan 19 22:31 dir_list.txt
